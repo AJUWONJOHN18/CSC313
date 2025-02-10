@@ -6,10 +6,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-/**
- *
- * @author Gerald Kaile
- */
+
 public class HoliayAssignment {
     public static void numberOneA(){
         for(int a = 0; a < 4; a++){
